@@ -5,20 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="267dc357-e093-41ac-98d2-948471013c95" name="变更" comment="快速复习入门">
-      <change afterPath="$PROJECT_DIR$/../quickStart_Plus/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quickStart_Plus/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quickStart_Plus/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quickStart_Plus/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quickStart_Plus/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quickStart_Plus/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quickStart_Plus/src/main/java/com/lin/config/ServletContainersInitConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quickStart_Plus/src/main/java/com/lin/config/SpringMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quickStart_Plus/src/main/java/com/lin/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quickStart_Plus/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quickStart_Plus/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/src/main/java/com/lin/config/ServletContainersInitConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/src/main/java/com/lin/config/SpringMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/src/main/java/com/lin/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickStart_Plus/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quickStart_Plus/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickStart_Plus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quickStart_Plus/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,12 +58,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "D:/JetBrains/SpringMVC/quickStart_Plus",
+    "last_opened_file_path": "D:/JetBrains/SpringMVC/json",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "140ea66a1bf7a384cbd54e19244f51fb"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -73,6 +73,19 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="quickStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="quickStart" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringMVC [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -109,6 +122,7 @@
       <updated>1681373161270</updated>
       <workItem from="1681373163110" duration="3464000" />
       <workItem from="1681390340774" duration="341000" />
+      <workItem from="1681454951788" duration="73000" />
     </task>
     <servers />
   </component>

@@ -5,19 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="267dc357-e093-41ac-98d2-948471013c95" name="变更" comment="快速复习入门">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/config/ServletContainersInitConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/config/SpringMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/domain/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/com/lin/config/ServletContainersInitConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/com/lin/config/SpringMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/com/lin/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/com/lin/domain/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/com/lin/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quickStart/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quickStart/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quickStart/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quickStart/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quickStart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quickStart/.idea/workspace.xml" afterDir="false" />
@@ -63,12 +65,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "D:/JetBrains/SpringMVC/json",
+    "last_opened_file_path": "D:/JetBrains/SpringMVC/rest",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "466deec76ecdf5fca6d38571f6324d54"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -113,7 +116,8 @@
       <updated>1681373161270</updated>
       <workItem from="1681373163110" duration="3464000" />
       <workItem from="1681390340774" duration="341000" />
-      <workItem from="1681455027425" duration="4134000" />
+      <workItem from="1681455027425" duration="4402000" />
+      <workItem from="1681543048664" duration="652000" />
     </task>
     <servers />
   </component>
